@@ -1,0 +1,10 @@
+name: AltsControl
+author: Askingg
+version: 1.0.0
+main: me.askingg.altcontrol.main.Main
+description: Manage alt accounts easily and efficiently
+
+commands:
+  alts:
+   aliases: [alt, altcontrol, altscontrol, ac]
+   description: Alts Base Command
